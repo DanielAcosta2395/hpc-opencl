@@ -1,10 +1,10 @@
-The installation was made using the following guide:
+## The installation was made using the following guide:
 
 https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_linux.md
 
 The graphics card used is an AMD 5500 XT.
 
-##Troubleshooting
+## Troubleshooting
 
 At first the GPU wasn't recognized by the C program, neither with `clinfo` command. To fix this, I followed the next guides:
 
